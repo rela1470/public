@@ -1,0 +1,13 @@
+<smil xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <head>
+    <layout>
+      <root-layout width="1920" height="1080" />
+      <region xml:id="fullscreen" width="100%" height="100%" left="0" top="0" fit="fill" z-index="1" />
+    </layout>
+  </head>
+  <body>
+    <seq repeatCount="indefinite">
+      <video src="https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" region="fullscreen" dur="indefinite" />
+    </seq>
+  </body>
+</smil>
