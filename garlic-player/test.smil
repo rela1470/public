@@ -7,7 +7,7 @@
   </head>
   <body>
     <seq repeatCount="indefinite">
-      <video src="https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" region="fullscreen" dur="indefinite" />
+      <video src="https://samplelib.com/mp4/sample-30s.mp4" region="fullscreen" dur="indefinite" />
     </seq>
   </body>
 </smil>
