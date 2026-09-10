@@ -1,0 +1,643 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//iOSDC Japan 2026//Track A//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:iOSDC Japan 2026 Track A
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:a14a0584-f65f-433d-83b2-5a2176d8fe27@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T072500Z
+DTEND:20260911T080500Z
+SUMMARY:Foundation Modelsの歌声によせて 〜 オンデバイス推論から聞こえてくる自動作曲の可能性
+DESCRIPTION:Speaker: log5 (@log5)\nhttps://fortee.jp/iosdc-japan-2026/proposal/a14a0584-f65f-433d-83b2-5a2176d8fe27
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/a14a0584-f65f-433d-83b2-5a2176d8fe27
+END:VEVENT
+BEGIN:VEVENT
+UID:f44b12d0-684f-4805-b88b-c0bd024b7924@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T082000Z
+DTEND:20260911T084000Z
+SUMMARY:空から降ってくるバイナリを読む〜数千円のハードで作る、自分だけの飛行機トラッカー〜
+DESCRIPTION:Speaker: 綾木良太 (@ayakix)\nhttps://fortee.jp/iosdc-japan-2026/proposal/f44b12d0-684f-4805-b88b-c0bd024b7924
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/f44b12d0-684f-4805-b88b-c0bd024b7924
+END:VEVENT
+BEGIN:VEVENT
+UID:d02693b8-e039-476e-b779-b8dd4d916c41@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T063000Z
+DTEND:20260911T063500Z
+SUMMARY:開場
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:406944f2-7b60-4479-b013-37d1804d6781@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T070000Z
+DTEND:20260911T071500Z
+SUMMARY:プレオープニング
+DESCRIPTION:Speaker: 長谷川智希 (@tomzoh)\nhttps://fortee.jp/iosdc-japan-2026/proposal/406944f2-7b60-4479-b013-37d1804d6781
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/406944f2-7b60-4479-b013-37d1804d6781
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb92056-490d-42f6-9851-822c18177b14@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T080500Z
+DTEND:20260911T081000Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:0b022d42-f7e1-485a-b076-92a8431afb54@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T084000Z
+DTEND:20260911T084500Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:14decb45-7595-42fd-a05c-ca450944328d@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T085500Z
+DTEND:20260911T091500Z
+SUMMARY:選挙速報を多くのユーザーに届ける Live Activities 設計
+DESCRIPTION:Speaker: 齋藤健悟 (@hamayokokuririn)\nhttps://fortee.jp/iosdc-japan-2026/proposal/14decb45-7595-42fd-a05c-ca450944328d
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/14decb45-7595-42fd-a05c-ca450944328d
+END:VEVENT
+BEGIN:VEVENT
+UID:ab321445-4ce5-4a1e-9cd3-2f5c86e8150b@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T091500Z
+DTEND:20260911T092000Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:ad8f698a-b24a-4792-94b1-e685c5f85300@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260911T093000Z
+DTEND:20260911T094500Z
+SUMMARY:Today's Update
+DESCRIPTION:Speaker: 長谷川智希 (@tomzoh)\nhttps://fortee.jp/iosdc-japan-2026/proposal/ad8f698a-b24a-4792-94b1-e685c5f85300
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/ad8f698a-b24a-4792-94b1-e685c5f85300
+END:VEVENT
+BEGIN:VEVENT
+UID:49c2ee06-d3e0-4ffb-9b82-c62a669d312b@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T003000Z
+DTEND:20260912T003500Z
+SUMMARY:開場
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:2726ade7-da68-47c9-ac1e-f9915d75fc25@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T010000Z
+DTEND:20260912T014000Z
+SUMMARY:オープニング
+DESCRIPTION:Speaker: 長谷川智希 (@tomzoh)\nhttps://fortee.jp/iosdc-japan-2026/proposal/2726ade7-da68-47c9-ac1e-f9915d75fc25
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/2726ade7-da68-47c9-ac1e-f9915d75fc25
+END:VEVENT
+BEGIN:VEVENT
+UID:30c1177b-724c-4fd2-9f5e-4b329cf22ef4@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T015000Z
+DTEND:20260912T021000Z
+SUMMARY:MVNOの申込からeSIM開通までをiOSアプリでつなぐ— 本人確認・MNP・通信事業者基盤をまたぐ実装
+DESCRIPTION:Speaker: 佐藤たけし (@hatakenokakashi)\nhttps://fortee.jp/iosdc-japan-2026/proposal/30c1177b-724c-4fd2-9f5e-4b329cf22ef4
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/30c1177b-724c-4fd2-9f5e-4b329cf22ef4
+END:VEVENT
+BEGIN:VEVENT
+UID:5532cb80-9b93-4a8a-a715-7d6564772068@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T021000Z
+DTEND:20260912T021500Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:741bf866-ed25-4eeb-9ec0-4405b617731b@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T022500Z
+DTEND:20260912T024500Z
+SUMMARY:「誰ひとり取り残されない」サービスを作る。 行政アプリとしてのアクセシビリティとの向き合い方。
+DESCRIPTION:Speaker: かじたに\nhttps://fortee.jp/iosdc-japan-2026/proposal/741bf866-ed25-4eeb-9ec0-4405b617731b
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/741bf866-ed25-4eeb-9ec0-4405b617731b
+END:VEVENT
+BEGIN:VEVENT
+UID:7163c36a-2456-45ae-9f1e-60d0c04e9c28@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T024500Z
+DTEND:20260912T025000Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:6b2c1fc3-d1e4-438a-bb06-6118bc37d1f1@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T043000Z
+DTEND:20260912T051000Z
+SUMMARY:ゲームコントローラやキーボードのファームウェアをSwiftで書く
+DESCRIPTION:Speaker: 岸川克己 (@k_katsumi)\nhttps://fortee.jp/iosdc-japan-2026/proposal/6b2c1fc3-d1e4-438a-bb06-6118bc37d1f1
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/6b2c1fc3-d1e4-438a-bb06-6118bc37d1f1
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e31559-f337-4f54-82d6-10dfa525fa75@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T051000Z
+DTEND:20260912T051500Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:e6ed3fdb-eeca-4354-af79-76930699e342@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T052500Z
+DTEND:20260912T054500Z
+SUMMARY:AI協働力という次世代基準：iOSアプリ開発が民主化された今、エンジニアが創るこれからの価値
+DESCRIPTION:Speaker: 葛岡 宏祐 (@kkosukeee)\nhttps://fortee.jp/iosdc-japan-2026/proposal/e6ed3fdb-eeca-4354-af79-76930699e342
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/e6ed3fdb-eeca-4354-af79-76930699e342
+END:VEVENT
+BEGIN:VEVENT
+UID:233224a2-667d-4b1d-8692-1b539aed41ff@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T054500Z
+DTEND:20260912T055000Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:54f248ab-c191-4ae3-aa75-709516beac37@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T060000Z
+DTEND:20260912T062000Z
+SUMMARY:Embedded Swiftで作る自作USBデバイスによるiOSデバイスの自動テスト
+DESCRIPTION:Speaker: glassfiber (@glassfiber2023)\nhttps://fortee.jp/iosdc-japan-2026/proposal/54f248ab-c191-4ae3-aa75-709516beac37
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/54f248ab-c191-4ae3-aa75-709516beac37
+END:VEVENT
+BEGIN:VEVENT
+UID:3d696cb4-1180-44a2-bbf4-5a313f1bd0af@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T062000Z
+DTEND:20260912T062500Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:61ced7e7-2fea-4c12-b14c-7064d54eb7e2@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T062500Z
+DTEND:20260912T073500Z
+SUMMARY:クローズ
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:09869d82-4f31-4fdf-9e2d-502c546b0ac7@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T074500Z
+DTEND:20260912T075000Z
+SUMMARY:ルーキーズLT大会 前半戦
+DESCRIPTION:Speaker: iOSDC Japan 2026 (@iosdcjp)\nhttps://fortee.jp/iosdc-japan-2026/proposal/09869d82-4f31-4fdf-9e2d-502c546b0ac7
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/09869d82-4f31-4fdf-9e2d-502c546b0ac7
+END:VEVENT
+BEGIN:VEVENT
+UID:7c8adc71-2155-4ff0-b20a-86aecd8c97e0@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T075000Z
+DTEND:20260912T075500Z
+SUMMARY:（VoiceOverスクリーンリーダー実演）目が見えなくてもXcodeやApp Store Connectは操作できる？
+DESCRIPTION:Speaker: Yoshiyuki Koyanagi (@moutend)\nhttps://fortee.jp/iosdc-japan-2026/proposal/7c8adc71-2155-4ff0-b20a-86aecd8c97e0
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/7c8adc71-2155-4ff0-b20a-86aecd8c97e0
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd44a4a-b356-4e54-b4bc-89dcead4410d@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T075500Z
+DTEND:20260912T080000Z
+SUMMARY:SF Symbols を並べれば美少女も3Dも描ける！アセット不使用謹製アプリで表現革命
+DESCRIPTION:Speaker: ささおか あかね (@sasaoka_akane)\nhttps://fortee.jp/iosdc-japan-2026/proposal/ddd44a4a-b356-4e54-b4bc-89dcead4410d
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/ddd44a4a-b356-4e54-b4bc-89dcead4410d
+END:VEVENT
+BEGIN:VEVENT
+UID:e10a5e42-b6f9-42da-bb8e-45732e9fcae6@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T080000Z
+DTEND:20260912T080500Z
+SUMMARY:CoreAIで約1000種類の花をオンデバイス識別する
+DESCRIPTION:Speaker: Fumiya Yamanaka (@mtfum)\nhttps://fortee.jp/iosdc-japan-2026/proposal/e10a5e42-b6f9-42da-bb8e-45732e9fcae6
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/e10a5e42-b6f9-42da-bb8e-45732e9fcae6
+END:VEVENT
+BEGIN:VEVENT
+UID:be9fa1a0-4009-4d8f-b8a5-423fe83450ee@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T080500Z
+DTEND:20260912T081000Z
+SUMMARY:Walletはチケットだけじゃない？オリジナルのプロフィールカードをつくってみる
+DESCRIPTION:Speaker: さき (@am2525nyan)\nhttps://fortee.jp/iosdc-japan-2026/proposal/be9fa1a0-4009-4d8f-b8a5-423fe83450ee
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/be9fa1a0-4009-4d8f-b8a5-423fe83450ee
+END:VEVENT
+BEGIN:VEVENT
+UID:4ed9aa0b-46ca-46d1-a089-3ee9da16b494@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T081000Z
+DTEND:20260912T081500Z
+SUMMARY:5万体のエージェントをSwiftUIでスムーズに動かしたい！~新卒エンジニアのMetalと空間分割による奮闘記
+DESCRIPTION:Speaker: ひびき (@Dpt3iNsDck53eQs)\nhttps://fortee.jp/iosdc-japan-2026/proposal/4ed9aa0b-46ca-46d1-a089-3ee9da16b494
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/4ed9aa0b-46ca-46d1-a089-3ee9da16b494
+END:VEVENT
+BEGIN:VEVENT
+UID:ed102714-341d-4d63-b850-70a8166a95a7@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T081500Z
+DTEND:20260912T082000Z
+SUMMARY:「ほっぺを膨らませる」が高精度なのはなぜ？
+DESCRIPTION:Speaker: 清水　亮介 (@rioX432)\nhttps://fortee.jp/iosdc-japan-2026/proposal/ed102714-341d-4d63-b850-70a8166a95a7
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/ed102714-341d-4d63-b850-70a8166a95a7
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ac3fd4-5bbb-47ae-a355-859926d00b32@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T083500Z
+DTEND:20260912T084000Z
+SUMMARY:ルーキーズLT大会 後半戦
+DESCRIPTION:Speaker: iOSDC Japan 2026 (@iosdcjp)\nhttps://fortee.jp/iosdc-japan-2026/proposal/d4ac3fd4-5bbb-47ae-a355-859926d00b32
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/d4ac3fd4-5bbb-47ae-a355-859926d00b32
+END:VEVENT
+BEGIN:VEVENT
+UID:aba4ef7b-9489-4e1d-8a09-e386837d5be6@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T084000Z
+DTEND:20260912T084500Z
+SUMMARY:採択されなくてもiOSDCのLT大会を体験したい！そんなアプリを作りました
+DESCRIPTION:Speaker: とと (@totokit4)\nhttps://fortee.jp/iosdc-japan-2026/proposal/aba4ef7b-9489-4e1d-8a09-e386837d5be6
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/aba4ef7b-9489-4e1d-8a09-e386837d5be6
+END:VEVENT
+BEGIN:VEVENT
+UID:7fcfd653-68d5-4295-9468-393508548ebb@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T084500Z
+DTEND:20260912T085000Z
+SUMMARY:Organizerを毎週自動で見張る──App Store Connect APIとAIエージェントによる性能劣化の検知と改善
+DESCRIPTION:Speaker: Wakame (@wakame_isono_)\nhttps://fortee.jp/iosdc-japan-2026/proposal/7fcfd653-68d5-4295-9468-393508548ebb
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/7fcfd653-68d5-4295-9468-393508548ebb
+END:VEVENT
+BEGIN:VEVENT
+UID:edd538f2-5bf0-41da-a6f0-bf5396b36978@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T085000Z
+DTEND:20260912T085500Z
+SUMMARY:マイコン向けの軽量Ruby「PicoRuby」で各種デバイスを制御するネイティブアプリの実現手法
+DESCRIPTION:Speaker: bash (@bash0C7)\nhttps://fortee.jp/iosdc-japan-2026/proposal/edd538f2-5bf0-41da-a6f0-bf5396b36978
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/edd538f2-5bf0-41da-a6f0-bf5396b36978
+END:VEVENT
+BEGIN:VEVENT
+UID:a8081a83-234f-42f1-b632-3de4617790ba@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T085500Z
+DTEND:20260912T090000Z
+SUMMARY:鉄道信号設備の保守経験から考える Swift Concurrency のフェイルセーフ設計
+DESCRIPTION:Speaker: Kenta Igarashi\nhttps://fortee.jp/iosdc-japan-2026/proposal/a8081a83-234f-42f1-b632-3de4617790ba
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/a8081a83-234f-42f1-b632-3de4617790ba
+END:VEVENT
+BEGIN:VEVENT
+UID:dc583c8a-b4fa-47f4-ac85-19794a53aaf2@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T090000Z
+DTEND:20260912T090500Z
+SUMMARY:なぜStruct？なぜClass？メモリから理解するSwiftの基礎
+DESCRIPTION:Speaker: ヨンビン\nhttps://fortee.jp/iosdc-japan-2026/proposal/dc583c8a-b4fa-47f4-ac85-19794a53aaf2
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/dc583c8a-b4fa-47f4-ac85-19794a53aaf2
+END:VEVENT
+BEGIN:VEVENT
+UID:1a053a58-ed42-42c4-8fb4-b7307c7c22f0@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T090500Z
+DTEND:20260912T091000Z
+SUMMARY:print("Hello") はどうやってXcodeのコンソールに届くのか
+DESCRIPTION:Speaker: yoji (@y_oh22)\nhttps://fortee.jp/iosdc-japan-2026/proposal/1a053a58-ed42-42c4-8fb4-b7307c7c22f0
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/1a053a58-ed42-42c4-8fb4-b7307c7c22f0
+END:VEVENT
+BEGIN:VEVENT
+UID:32fb9648-3596-4302-a1bd-c00627701b4c@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T091000Z
+DTEND:20260912T091500Z
+SUMMARY:綺麗に撮れすぎるスマホカメラからブレを取り戻す
+DESCRIPTION:Speaker: genshi (@addtobasic)\nhttps://fortee.jp/iosdc-japan-2026/proposal/32fb9648-3596-4302-a1bd-c00627701b4c
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/32fb9648-3596-4302-a1bd-c00627701b4c
+END:VEVENT
+BEGIN:VEVENT
+UID:b8a3db0b-d302-4dc0-821b-e31da99e48c8@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260912T094000Z
+DTEND:20260912T095500Z
+SUMMARY:Today's Update
+DESCRIPTION:Speaker: 長谷川智希 (@tomzoh)\nhttps://fortee.jp/iosdc-japan-2026/proposal/b8a3db0b-d302-4dc0-821b-e31da99e48c8
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/b8a3db0b-d302-4dc0-821b-e31da99e48c8
+END:VEVENT
+BEGIN:VEVENT
+UID:f1fc3d18-f3a5-4669-8066-68efc79402a6@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T003000Z
+DTEND:20260913T003500Z
+SUMMARY:開場
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:71372588-80f0-4f79-a0d4-f0fd553b2f46@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T010000Z
+DTEND:20260913T011500Z
+SUMMARY:Today's Update
+DESCRIPTION:Speaker: 長谷川智希 (@tomzoh)\nhttps://fortee.jp/iosdc-japan-2026/proposal/71372588-80f0-4f79-a0d4-f0fd553b2f46
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/71372588-80f0-4f79-a0d4-f0fd553b2f46
+END:VEVENT
+BEGIN:VEVENT
+UID:bf3c97ef-0a92-448f-9182-4df7b4a9d792@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T013000Z
+DTEND:20260913T021000Z
+SUMMARY:スマートフォンでモールス信号を送受信する 〜スマートフォンのLEDとカメラで作る光通信の設計と実装〜
+DESCRIPTION:Speaker: 瀬尾 敦生 (@atsuki_seo)\nhttps://fortee.jp/iosdc-japan-2026/proposal/bf3c97ef-0a92-448f-9182-4df7b4a9d792
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/bf3c97ef-0a92-448f-9182-4df7b4a9d792
+END:VEVENT
+BEGIN:VEVENT
+UID:055ca80c-1b9d-4da5-9313-5cf36a66c4f6@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T021000Z
+DTEND:20260913T021500Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:9187a99c-43ac-49c8-885e-534fe1e580a4@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T022500Z
+DTEND:20260913T024500Z
+SUMMARY:ボードゲームの遊び相手をFoundation Modelsで作る
+DESCRIPTION:Speaker: 三原亮介 (@oinariman)\nhttps://fortee.jp/iosdc-japan-2026/proposal/9187a99c-43ac-49c8-885e-534fe1e580a4
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/9187a99c-43ac-49c8-885e-534fe1e580a4
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bc3bb5-1f88-4622-8686-804105065133@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T024500Z
+DTEND:20260913T025000Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:7eeee179-dc2d-4845-b99a-e1633131c863@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T043000Z
+DTEND:20260913T051000Z
+SUMMARY:交通系ICへのチャージ実例から考える、クロスプラットフォーム開発におけるiOS実機テスト設計とCI運用
+DESCRIPTION:Speaker: yusuga (@yusuga_)\nhttps://fortee.jp/iosdc-japan-2026/proposal/7eeee179-dc2d-4845-b99a-e1633131c863
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/7eeee179-dc2d-4845-b99a-e1633131c863
+END:VEVENT
+BEGIN:VEVENT
+UID:194e4384-06a2-4dad-b290-1126c0a46119@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T051000Z
+DTEND:20260913T051500Z
+SUMMARY:Q&A
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:96caa872-d903-4023-a125-b4cf157900ac@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T051500Z
+DTEND:20260913T060000Z
+SUMMARY:クローズ
+LOCATION:Track A
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed4e9eb-64e3-450d-aa4d-cbaeae8630ea@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T060000Z
+DTEND:20260913T060500Z
+SUMMARY:LT大会 前半戦
+DESCRIPTION:Speaker: iOSDC Japan 2026 (@iosdcjp)\nhttps://fortee.jp/iosdc-japan-2026/proposal/3ed4e9eb-64e3-450d-aa4d-cbaeae8630ea
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/3ed4e9eb-64e3-450d-aa4d-cbaeae8630ea
+END:VEVENT
+BEGIN:VEVENT
+UID:e3e8e210-c405-45f4-a101-5baed82df109@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T060500Z
+DTEND:20260913T061000Z
+SUMMARY:iOSDCのペンライトを自動制御したい！
+DESCRIPTION:Speaker: akkey (@AkkeyLab)\nhttps://fortee.jp/iosdc-japan-2026/proposal/e3e8e210-c405-45f4-a101-5baed82df109
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/e3e8e210-c405-45f4-a101-5baed82df109
+END:VEVENT
+BEGIN:VEVENT
+UID:ca27d9c4-145f-45ab-bb45-0a210f0ab2c9@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T061000Z
+DTEND:20260913T061500Z
+SUMMARY:画面収録を実装したけど音声がおかしい……原因不明の現象をどう切り分けたか
+DESCRIPTION:Speaker: sussan (@sussan0416)\nhttps://fortee.jp/iosdc-japan-2026/proposal/ca27d9c4-145f-45ab-bb45-0a210f0ab2c9
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/ca27d9c4-145f-45ab-bb45-0a210f0ab2c9
+END:VEVENT
+BEGIN:VEVENT
+UID:7022bcb3-ac67-4a6f-95e9-429206d40e66@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T061500Z
+DTEND:20260913T062000Z
+SUMMARY:Minecraft JavaのMODをSwiftで作る
+DESCRIPTION:Speaker: いますえ (@1mash0_)\nhttps://fortee.jp/iosdc-japan-2026/proposal/7022bcb3-ac67-4a6f-95e9-429206d40e66
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/7022bcb3-ac67-4a6f-95e9-429206d40e66
+END:VEVENT
+BEGIN:VEVENT
+UID:fb602026-cc12-4ac1-84a0-89b912cd1b89@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T062000Z
+DTEND:20260913T062500Z
+SUMMARY:App Storeの外へ──日本のiOSサイドローディング入門
+DESCRIPTION:Speaker: 野瀬田 (@ynoseda)\nhttps://fortee.jp/iosdc-japan-2026/proposal/fb602026-cc12-4ac1-84a0-89b912cd1b89
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/fb602026-cc12-4ac1-84a0-89b912cd1b89
+END:VEVENT
+BEGIN:VEVENT
+UID:33fcf895-2a8a-41bb-b967-2acb12f08169@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T062500Z
+DTEND:20260913T063000Z
+SUMMARY:端末間のデータ移行ってn種類あんねん
+DESCRIPTION:Speaker: ひめし (@himeshi_tech)\nhttps://fortee.jp/iosdc-japan-2026/proposal/33fcf895-2a8a-41bb-b967-2acb12f08169
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/33fcf895-2a8a-41bb-b967-2acb12f08169
+END:VEVENT
+BEGIN:VEVENT
+UID:60b58d12-61d2-4b0b-a06b-3397f4452b1d@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T063000Z
+DTEND:20260913T063500Z
+SUMMARY:`t*(42&t>>10)`だけで音楽が鳴る、Swiftで実装するBytebeat
+DESCRIPTION:Speaker: yutailang0119 (@yutailang0119)\nhttps://fortee.jp/iosdc-japan-2026/proposal/60b58d12-61d2-4b0b-a06b-3397f4452b1d
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/60b58d12-61d2-4b0b-a06b-3397f4452b1d
+END:VEVENT
+BEGIN:VEVENT
+UID:966203ac-6324-43d0-8cb6-0aa10cd60f2e@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T063500Z
+DTEND:20260913T064000Z
+SUMMARY:山手線を徒歩で一周してわかった、位置情報アプリは「足」が最強のデバッガー
+DESCRIPTION:Speaker: ひなっこ (@hinakkograshi)\nhttps://fortee.jp/iosdc-japan-2026/proposal/966203ac-6324-43d0-8cb6-0aa10cd60f2e
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/966203ac-6324-43d0-8cb6-0aa10cd60f2e
+END:VEVENT
+BEGIN:VEVENT
+UID:232ec2c5-09e2-4696-bf16-4ec4ea608b4a@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T064000Z
+DTEND:20260913T064500Z
+SUMMARY:あなたの知らないGarageBandの世界
+DESCRIPTION:Speaker: CHEEBOW (@cheebow)\nhttps://fortee.jp/iosdc-japan-2026/proposal/232ec2c5-09e2-4696-bf16-4ec4ea608b4a
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/232ec2c5-09e2-4696-bf16-4ec4ea608b4a
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc310c1-781b-448d-8f0b-4beeb8f550b8@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T070000Z
+DTEND:20260913T070500Z
+SUMMARY:LT大会 後半戦
+DESCRIPTION:Speaker: iOSDC Japan 2026 (@iosdcjp)\nhttps://fortee.jp/iosdc-japan-2026/proposal/1bc310c1-781b-448d-8f0b-4beeb8f550b8
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/1bc310c1-781b-448d-8f0b-4beeb8f550b8
+END:VEVENT
+BEGIN:VEVENT
+UID:44325d92-8253-4090-9716-f0bfbc249867@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T070500Z
+DTEND:20260913T071000Z
+SUMMARY:すぐできる衛星通信対応。あとは山奥に行くだけ
+DESCRIPTION:Speaker: Kazuhiro Kamakura (@yoyokkTT)\nhttps://fortee.jp/iosdc-japan-2026/proposal/44325d92-8253-4090-9716-f0bfbc249867
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/44325d92-8253-4090-9716-f0bfbc249867
+END:VEVENT
+BEGIN:VEVENT
+UID:8f67f5d9-336e-48bd-8120-4e0cc1be1fa9@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T071000Z
+DTEND:20260913T071500Z
+SUMMARY:広告が、消えない - WebKit 広告ブロックの落とし穴 -
+DESCRIPTION:Speaker: marcy731 (@marcy731)\nhttps://fortee.jp/iosdc-japan-2026/proposal/8f67f5d9-336e-48bd-8120-4e0cc1be1fa9
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/8f67f5d9-336e-48bd-8120-4e0cc1be1fa9
+END:VEVENT
+BEGIN:VEVENT
+UID:7d125d0b-f834-49c5-8431-11cf313be2ff@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T071500Z
+DTEND:20260913T072000Z
+SUMMARY:手動確認はもう限界 〜XCUITestでCustom URL Schemeの遷移を起動種別ごとに自動テストする〜
+DESCRIPTION:Speaker: otouto (@otouto555)\nhttps://fortee.jp/iosdc-japan-2026/proposal/7d125d0b-f834-49c5-8431-11cf313be2ff
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/7d125d0b-f834-49c5-8431-11cf313be2ff
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c83b6f-3f12-49bd-8557-e192f605817f@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T072000Z
+DTEND:20260913T072500Z
+SUMMARY:プログラムは思った通りには動かない。書いた通りに動k...動かない...だと...？
+DESCRIPTION:Speaker: 417.72KI (@417_72ki)\nhttps://fortee.jp/iosdc-japan-2026/proposal/c6c83b6f-3f12-49bd-8557-e192f605817f
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/c6c83b6f-3f12-49bd-8557-e192f605817f
+END:VEVENT
+BEGIN:VEVENT
+UID:b531cfc0-c4ee-4a4e-b435-8fcab3e73e98@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T072500Z
+DTEND:20260913T073000Z
+SUMMARY:アプリを開かれない前提で作る高齢者見守りアプリ
+DESCRIPTION:Speaker: Ryosuke Tamura (@ryosuke_tamura2)\nhttps://fortee.jp/iosdc-japan-2026/proposal/b531cfc0-c4ee-4a4e-b435-8fcab3e73e98
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/b531cfc0-c4ee-4a4e-b435-8fcab3e73e98
+END:VEVENT
+BEGIN:VEVENT
+UID:0688a16a-b469-4f00-9ddd-d8c14d7ff383@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T073000Z
+DTEND:20260913T073500Z
+SUMMARY:SwiftでプログラミングできるハードウェアをFPGAで自作してみた
+DESCRIPTION:Speaker: 大庭 慎一郎 (@ooba)\nhttps://fortee.jp/iosdc-japan-2026/proposal/0688a16a-b469-4f00-9ddd-d8c14d7ff383
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/0688a16a-b469-4f00-9ddd-d8c14d7ff383
+END:VEVENT
+BEGIN:VEVENT
+UID:634136cb-5983-44e9-a446-f13217e13ab1@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T073500Z
+DTEND:20260913T074000Z
+SUMMARY:EmptyViewは本当に“空”なのか？
+DESCRIPTION:Speaker: Akihiko Sato (@akkiee76)\nhttps://fortee.jp/iosdc-japan-2026/proposal/634136cb-5983-44e9-a446-f13217e13ab1
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/634136cb-5983-44e9-a446-f13217e13ab1
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb6f1b8-5bc2-484f-8101-950d3b05ba88@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T074000Z
+DTEND:20260913T074500Z
+SUMMARY:大喜利で理解するLLM as a Judge
+DESCRIPTION:Speaker: 岩名勇輝 (@_rockname)\nhttps://fortee.jp/iosdc-japan-2026/proposal/1bb6f1b8-5bc2-484f-8101-950d3b05ba88
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/1bb6f1b8-5bc2-484f-8101-950d3b05ba88
+END:VEVENT
+BEGIN:VEVENT
+UID:016a0a3f-9df6-44c5-9c55-d140969cad47@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T080000Z
+DTEND:20260913T083000Z
+SUMMARY:クロージング
+DESCRIPTION:Speaker: 長谷川智希 (@tomzoh)\nhttps://fortee.jp/iosdc-japan-2026/proposal/016a0a3f-9df6-44c5-9c55-d140969cad47
+LOCATION:Track A
+URL:https://fortee.jp/iosdc-japan-2026/proposal/016a0a3f-9df6-44c5-9c55-d140969cad47
+END:VEVENT
+BEGIN:VEVENT
+UID:755b5901-003d-4603-b9f1-b5dc9e6dbe4a@fortee.jp
+DTSTAMP:20260910T024709Z
+DTSTART:20260913T090000Z
+DTEND:20260913T110000Z
+SUMMARY:懇親会
+LOCATION:Track A
+END:VEVENT
+END:VCALENDAR
